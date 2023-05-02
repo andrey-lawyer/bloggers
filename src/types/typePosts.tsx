@@ -23,11 +23,3 @@ export interface IPostUpdate {
   };
   idPost: string | null;
 }
-
-// export interface IPostUpdateDb {
-//   [key: string]: IPostUpdate;
-// }
-
-// export interface IPostDb {
-//   [key: string]: IPost;
-// }

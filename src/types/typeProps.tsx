@@ -11,7 +11,7 @@ interface IPosts {
     theme: string;
     title: string;
     timestamp: number;
-    visible?: boolean;
+    visible: boolean;
   };
 }
 
